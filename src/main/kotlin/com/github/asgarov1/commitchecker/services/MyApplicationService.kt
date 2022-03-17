@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.asgarov1.commitchecker.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.asgarov1.commitchecker.MyBundle
 
 class MyApplicationService {
 
